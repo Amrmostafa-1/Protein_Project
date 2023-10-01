@@ -18,6 +18,10 @@ A deep learning approach designed to generate novel protein sequences. Leveragin
 - ProteinBert Integration: Distill intricate protein features utilizing the distinguished ProteinBert model.
 - Validation against PDB: Validate the singularity of generated sequences against nature's repertoire using the PDB API.(https://www.rcsb.org)
 
+## Visualization
+- Tableau: https://public.tableau.com/authoring/Book1_16961651295730/Sheet1
+- Google Slides: https://docs.google.com/presentation/d/1bQ1L4dQgU75YQ3nlGphFrzT2mg8eBKy26D3VRqBBLag/edit?usp=sharing
+
 ## Dataset
 
 - The backbone of this project is constructed on a dataset amassing protein sequences, demarcated by species origin (Human or Rat), which was downloaded from UniProt.
