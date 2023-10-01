@@ -1,7 +1,7 @@
 # Protein Renaissance: The Age of Sequence Generation
 
 ## Overview
-A deep learning approach designed to generate novel protein sequences. Leveraging state-of-the-art neural architectures, our project aims to facilitate the discovery of new proteins, potentially leading to advancements in fields like drug discovery, bio-engineering, and more.
+A deep learning approach designed to generate novel protein sequences. Leveraging state-of-the-art neural architectures, my project aims to facilitate the discovery of new proteins, potentially leading to advancements in fields like drug discovery, bio-engineering, and more.
 
 ## Technologies Used
 
